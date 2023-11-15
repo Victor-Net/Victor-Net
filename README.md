@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design, Artificial Intelligence, Machine Learning and Networking
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me: cherukv@gmail.com or WhatsApp me on +254759885970
+- 📫 How to reach me: cherukv@gmail.com or WhatsApp me on +
 
 <!---
 Victor-Net/Victor-Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
