@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victor-Net
 - 👀 I’m interested in web design, Artificial Intelligence, Machine Learning and Networking
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on any JavaScript or React projects.
 - 📫 How to reach me: cherukv@gmail.com or WhatsApp me on +
 
 <!---
